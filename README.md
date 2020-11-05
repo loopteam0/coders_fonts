@@ -2,7 +2,7 @@
 
 ## Samples
 
-### 1. Cascadia
+### 1. [Cascadia](https://github.com/microsoft/cascadia-code)
 
 ##### Code
 
@@ -12,19 +12,19 @@
 
 ![Cascadia Code](./docs/images/cascadia_mono.png)
 
-### 2. JetBrains Mono
+### 2. [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
 
 ![JetBrains mono](./docs/images/jetbrains_mono.png)
 
-### 3. Source Code Pro
+### 3. [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 
 ![Soruce Code Pro](./docs/images/source_code_pro.png)
 
-### 4. Inconsolato
+### 4. [Inconsolato]()
 
 ![Inconsolato](./docs/images/inconsolato.png)
 
-### 5. Victor Mono
+### 5. [Victor Mono](https://github.com/rubjo/victor-mono)
 
 ![Victor Mode](./docs/images/victor_mono.png)
 
