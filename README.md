@@ -35,7 +35,8 @@
 1. **Open Settings**
    ![step 1](./docs/images/step_1.png)
 2. **Enter the name of the font you installed, You can choose add the font weight here I specified Light**
-   _You can choose to enable ligatures,(below font family)_
+
+   **_You also can choose to enable ligatures,(below font family)_**
    ![step 2](./docs/images/step_2.png)
 
 ## Android Studio
