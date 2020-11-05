@@ -18,7 +18,7 @@
 
 ## 3. Source Code Pro
 
-![Soruce Code Pro](./docs/images/socurce_code_pro.png)
+![Soruce Code Pro](./docs/images/source_code_pro.png)
 
 ## 4. Inconsolato
 
