@@ -1,30 +1,30 @@
 # coders_fonts
 
-#### Samples
+## Samples
 
-## 1. Cascadia
+### 1. Cascadia
 
-###### Code
+##### Code
 
 ![Cascadia Code](./docs/images/cascadia_code_pl.png)
 
-###### Mono
+##### Mono
 
 ![Cascadia Code](./docs/images/cascadia_mono.png)
 
-## 2. JetBrains Mono
+### 2. JetBrains Mono
 
 ![JetBrains mono](./docs/images/jetbrains_mono.png)
 
-## 3. Source Code Pro
+### 3. Source Code Pro
 
 ![Soruce Code Pro](./docs/images/source_code_pro.png)
 
-## 4. Inconsolato
+### 4. Inconsolato
 
 ![Inconsolato](./docs/images/inconsolato.png)
 
-## 5. Victor Mono
+### 5. Victor Mono
 
 ![Victor Mode](./docs/images/victor_mono.png)
 
@@ -35,7 +35,6 @@
 1. **Open Settings**
    ![step 1](./docs/images/step_1.png)
 2. **Enter the name of the font you installed, You can choose add the font weight here I specified Light**
-
    **_You also can choose to enable ligatures,(below font family)_**
    ![step 2](./docs/images/step_2.png)
 
